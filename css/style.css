@@ -1,0 +1,41 @@
+body {
+background-color: coral;
+}
+
+h1 {
+    background-color: black;
+    
+    box-shadow: 
+    0 0 5px greenyellow,
+    0 0 25px greenyellow;
+
+    padding: 10px 5px;
+}
+
+.images{
+    position: relative;
+    width: 80%;
+    max-height: 500px;
+    max-width: 700px;
+    display: inline;
+}
+
+.center {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: antiquewhite;
+}
+
+.box{
+font-size: 1.5em;
+image-rendering: auto;
+}
+
+.social-icons {
+    font-size: 5em;
+    font-weight: 300;
+}
+
+.project-icons {
+    font-size: 5em;
+}
